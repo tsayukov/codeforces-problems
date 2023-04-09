@@ -1,6 +1,12 @@
 # IDEA files
 .idea
 
+# CMake files and main.cpp
+CMakeLists.txt
+cmake-build-debug
+cmake-build-release
+main.cpp
+
 # Prerequisites
 *.d
 
